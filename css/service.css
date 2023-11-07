@@ -1,0 +1,81 @@
+/* SECTION SERVICE START */
+
+.text-service {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.text-service h2 {
+    padding-bottom: 10px;
+    font-family: monster-bold;
+    font-weight: 700;
+    font-size: 40px;
+    color: var(--text-color);
+}
+
+.text-service p {
+    font-size: 14px;
+    font-family: monster-600;
+    font-weight: 600;
+    color: var(--second-text-color);
+    margin-bottom: 100px;
+}
+
+.service-right {
+    width: 333px;
+    height: 388px;
+}
+
+.img-and-text {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 157px;
+}
+
+.most-p {
+    font-family: monster-bold;
+    font-size: 40px;
+    padding-bottom: 10px;
+    color: var(--text-color);
+    padding-top: 10px;
+}
+
+.most-p2 {
+    font-family: monster-600;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--second-text-color);
+    padding-bottom: 50px;
+}
+
+.icon-people {
+    display: flex;
+    gap: 20px;
+}
+
+.icon-speed {
+    display: flex;
+    gap: 20px;
+}
+
+.icon-people h5 {
+    font-family: monster-bold;
+    color: var(--text-color);
+    line-height: 24px;
+}
+
+.icon-speed h5 {
+    font-family: monster-bold;
+    color: var(--text-color);
+    line-height: 24px;
+    padding-top: 20px;
+}
+
+.service-right h6 {
+    padding-left: 50px;
+    padding-bottom: 30px;
+    font-family: monster-600;
+    line-height: 24px;
+}
+
+/* SECTION SERVICE END */
